@@ -17,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/nathangreiling/budget-tracker/issues"
   },
-  "homepage": "https://github.com/nathangreiling/budget-tracker#readme"
+  "homepage": "https://github.com/nathangreiling/budget-tracker#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.16.3",
+    "mongoose": "^5.3.16",
+    "morgan": "^1.10.0"
+  }
 }
