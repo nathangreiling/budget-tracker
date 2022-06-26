@@ -34,3 +34,6 @@
 
   - GitHub username with deployed link: [nathangreiling](https://github.com/nathangreiling)
   - Email : ngreiling20@gmail.com
+
+## Additional
+-- Link to deployed site: https://tranquil-citadel-73760.herokuapp.com/
