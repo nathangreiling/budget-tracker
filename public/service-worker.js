@@ -5,7 +5,10 @@ const CACHE_NAME = APP_PREFIX + VERSION;
 
 const FILES_TO_CACHE = [
     "./index.html",
-    "./assets/css/style.css",
+    "./css/styles.css",
+    "./js/idb.js",
+    "./js/index.js",
+    "./manifest.json"
   ];
 
 
